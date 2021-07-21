@@ -1,16 +1,29 @@
-### Hi there 👋
+###  👋
+```python3
+import album as IGOR
+import artist as BROCKHAMPTON
+import animal as corgis
+import author as 太宰 治
+import utau as 虎牙音おゆぽ
 
-<!--
-**sweeneyngo/sweeneyngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hullo, it's sween, your local goat. 
+check out my socials vv
+```
+<p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  
+```javascript
+const sween = {
+  message: "overdose on vocaloid till i'm diabetic",
+  
+  pronouns: "he" | "him",
+  code: [javascript, python, cpp, c],
+  tools: [react, vue, node, flask, opencv, keras],
+  databases: [mongo, graphql, postgresql],
+  testing: [jest, mocha],
+  frameworks: [next, gatsby],
+  
+  question: "are you okay?",
+  answer: "no. anyway stan vflower"
+}
+```
